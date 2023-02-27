@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccordionTest", "AccordionTest.csproj", "{96409586-C022-4629-91A4-A0B2E576B7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96409586-C022-4629-91A4-A0B2E576B7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96409586-C022-4629-91A4-A0B2E576B7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96409586-C022-4629-91A4-A0B2E576B7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96409586-C022-4629-91A4-A0B2E576B7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF627C57-E9AA-4A8B-9F06-680270D4772A}
+	EndGlobalSection
+EndGlobal
